@@ -1,5 +1,7 @@
 # Inbound: AI lead-reply agent
 
+**[Live demo →](https://khyati-lead-reply-agent.vercel.app)**
+
 Inbound sales enquiries go cold fast, and most of a rep's first hour is spent working out which ones matter. **Inbound** takes a raw enquiry email, scores the lead, extracts what the buyer actually needs, maps it to catalogue SKUs, and drafts a first reply that answers only from the product catalogue and never quotes a price. A human reviews and edits every draft before it goes anywhere. The demo runs against Northwind Fasteners, a fictional industrial fastener supplier.
 
 ![Inbound analysing a hot RFQ: lead score 94, tier Hot, an editable draft reply and the review gate](docs/screenshot.png)
